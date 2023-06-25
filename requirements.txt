@@ -1,0 +1,6 @@
+pillow
+pygame
+aiohttp
+requests
+python-bidi
+flask
