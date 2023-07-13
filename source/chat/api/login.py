@@ -1,11 +1,6 @@
 from requests import Session
 import json
 
-def joinGuild(token:str, uID:str):
-    url = "https://discord.com/api/v9/guilds/1121421867182465044/members/"+uID
-    res = Session().post(url, {"Authorization": token})
-    print(res.text)
-
 def login(login:str, password:str):
     req = Session()
     url = "https://discord.com/api/v9/auth/login"
