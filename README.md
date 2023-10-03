@@ -18,3 +18,9 @@ about we
 - work : `video/image editor`
 
 <img src="./natije.png" float="left" width="50%">
+
+#### hamed rabiie
+shad : [@Hamedrabie25](https://web.shad.ir/#c=u0TsyY0923c7dbb53731381b4d366e7d)
+work : ``دبیر راهنما``
+
+با تشکر از زحمات مدیر و دبیر گرامی 🌹
